@@ -157,7 +157,7 @@
   "author": "reyhane masumi <r.masumi94@gmail.com>",
   "bundleDependencies": false,
   "dependencies": {
-    "mapir-mapbox": "2.0.6",
+    "mapir-mapbox": "mmirali7/mapir-mapbox",
     "axios": "^0.19.2"
   },
   "deprecated": false,
